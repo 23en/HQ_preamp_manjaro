@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>megaman_petit2.png</file>
+    </qresource>
+</RCC>
